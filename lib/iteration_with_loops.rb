@@ -3,7 +3,6 @@ def join_nested_strings(src)
   # Combine all Strings present in the AoA into a single value and return it
 nested_strings +=1 
 row_index = 0 
-
 while row_index < src.count do 
   
   element_index = 0 
